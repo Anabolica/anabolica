@@ -2,10 +2,6 @@
 
 This is Anabell. I am a Marketing Data Scientist from Mexico living in Dublin. 
 
-## 📬 Get in touch 
-Web: [anabellgongora.com][1]
-- LinkedIn: [linkedin.com/in/anabellgongora][2]
-
 <!--
 **Anabolica/anabolica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
